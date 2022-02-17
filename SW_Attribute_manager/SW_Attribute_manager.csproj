@@ -66,7 +66,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="01_Atr_manager_init.cs" />
+    <Compile Include="00_Atr_manager_init.cs" />
+    <Compile Include="01_Atr_manager_Method_Upload_general_attribute_info.cs" />
+    <Compile Include="02_Atr_manager_Method_Upload_attribute_costs_info.cs" />
+    <Compile Include="03_Atr_manager_Method_Upload_attribute_age_status_limits.cs" />
+    <Compile Include="04_Atr_manager_Method_Upload_attribute_range_limits.cs" />
     <Compile Include="05_Atr_manager_Method_run_download_from_SQLite.cs" />
     <Compile Include="06_Atr_manager_Method_run_download_and_upload_data.cs" />
     <Compile Include="07_Atr_manager_constructor.cs" />
