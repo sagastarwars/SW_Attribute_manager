@@ -40,6 +40,12 @@
     <Reference Include="EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
       <HintPath>..\packages\EntityFramework.6.4.4\lib\net45\EntityFramework.SqlServer.dll</HintPath>
     </Reference>
+    <Reference Include="SW_Atribute_shablon">
+      <HintPath>..\..\SW_Atribute_shablon\SW_Atribute_shablon\bin\Release\SW_Atribute_shablon.dll</HintPath>
+    </Reference>
+    <Reference Include="SW_Attributes">
+      <HintPath>..\..\SW_Attributes\SW_Attributes\bin\Release\SW_Attributes.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.ComponentModel.DataAnnotations" />
     <Reference Include="System.Core" />

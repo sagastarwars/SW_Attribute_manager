@@ -5,6 +5,8 @@ VisualStudioVersion = 17.0.32002.185
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SW_Attribute_manager", "SW_Attribute_manager\SW_Attribute_manager.csproj", "{2E9A1508-BC0A-4731-8B0F-BB9C711CB1E6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SW_Race_manager", "..\..\Races_Libs\SW_Race_manager\SW_Race_manager.csproj", "{4E810B33-0B2A-4356-89D4-41D5E9BE1173}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{2E9A1508-BC0A-4731-8B0F-BB9C711CB1E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2E9A1508-BC0A-4731-8B0F-BB9C711CB1E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2E9A1508-BC0A-4731-8B0F-BB9C711CB1E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E810B33-0B2A-4356-89D4-41D5E9BE1173}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E810B33-0B2A-4356-89D4-41D5E9BE1173}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E810B33-0B2A-4356-89D4-41D5E9BE1173}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E810B33-0B2A-4356-89D4-41D5E9BE1173}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
